@@ -24,8 +24,8 @@ function generateEmail(type){
   html += '</ol>';
   html += '<table id="imageholder">';
   html += '<tr>';
-  html += '<td style="width:50%"><img src="https://4463904.app.netsuite.com/core/media/media.nl?id=5884446&c=4463904&h=ec80e6bce5a77834d6d1"><br>Correct</td>';
-  html += '<td><img src="https://4463904.app.netsuite.com/core/media/media.nl?id=5884447&c=4463904&h=f8aac24da723988cdc48"><br>Incorrect</td>'
+  html += '<td><img style="width:50%" src="https://4463904.app.netsuite.com/core/media/media.nl?id=5884446&c=4463904&h=ec80e6bce5a77834d6d1"><br>Correct</td>';
+  html += '<td><img style="width:50%" src="https://4463904.app.netsuite.com/core/media/media.nl?id=5884447&c=4463904&h=f8aac24da723988cdc48"><br>Incorrect</td>'
   html += '</tr>';
   html += '</table>';
   html += '<p>All glasses being swapped must be <i>current</i> styles and in perfect selling condition (i.e. clean lenses, no store pricing stickers attached, etc.). Should you have any pricing stickers attached to the Peepers tag, we ask that you remove the entire Peepers tag.</p>';
